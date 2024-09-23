@@ -1,1 +1,4 @@
-
+Stem-and-Leaf Plots
+Mechanical Turk
+Parallel Coordinates
+Choropleth Maps
